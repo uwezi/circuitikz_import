@@ -14,7 +14,7 @@ LTspice is a free circuit simulator which stores its schematics into text files.
 such a file using a script should be doable - and it was.
 
 But why stop there. Now that I had a clear concept, I wrote a second script for importing
-schematic diagrams from [KiCAD](https://www.kicad-pcb.org/). KiCAD is a free open-source program
+schematic diagrams from [KiCAD](https://www.kicad.org/. KiCAD is a free open-source program
 to draw schematic diagrams and design printed circuit boards based on these schematics.
 
 The scripts are by no means complete. Both scripts allow for the conversion of simple schematic
