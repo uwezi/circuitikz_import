@@ -1,5 +1,5 @@
 # circuittikz_import
-Import scripts for circuittikz
+## Import scripts for circuittikz
 
 The package [circuittikz](https://ctan.org/pkg/circuitikz) allows the rendering of high quality
 schematic drawings in LaTeX. However, it is not an easy task to *program* a circuit rather than 
